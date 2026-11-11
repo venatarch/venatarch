@@ -1,30 +1,21 @@
-# Hey, I'm Hariprasath 👋
+# Hariprasath S
 
-EEE Undergrad | Embedded Systems & Electronics | Motorsport Enthusiast
+Electrical and Electronics Engineering student at Chennai Institute of Technology, also doing the BS in Electronic Systems at IIT Madras. I work on embedded systems, PCB design and power electronics, with an eye on vehicle and motorsport electronics.
 
----
+## Projects
 
-## 🔧 What I'm Working On
+| Project | What it is | Status |
+| --- | --- | --- |
+| [Regenerative braking board](https://github.com/venatarch/regenerative_braking) | 4-layer KiCad board: 3-phase BLDC inverter plus a supercapacitor buffer that stores braking energy, STM32-controlled | Layout done, testing pending |
+| Indigenous VHF radio with GSM and satellite fallback | Electronics for the winning Smart India Hackathon 2025 (Hardware) entry: ESP32, LoRa, GPS, GSM, Li-ion with BMS | Completed |
+| Dual-lane PMSM controller | Redundant controller running sensor-based and sensorless Field-Oriented Control on STM32 | Built, testing pending |
+| SAE Aerothon 2026 drone avionics | Raspberry Pi, payload mechanism and Pixhawk integration; battery and motor sizing | Competed in Phase 2 |
+| Line-follower and maze-solver PCBs | KiCad boards used as the robot chassis, PID control | Finalist, Technoxian and Roborun 2026 |
 
-- Learning C programming and bare-metal embedded systems
-- Exploring microcontroller development with Arduino and STM32
-- PCB design using KiCad
-- Building toward Formula Student Electric electronics — VCU, BMS, CAN bus, DAQ
+## Tools
 
-## 🛠️ Tools & Tech
+C · Python · STM32 · ESP32 · Arduino · Raspberry Pi · KiCad · Altium Designer · MATLAB/Simulink
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+## Contact
 
-## 🏎️ Main Interest
-
-Formula Student Electric — specifically the low-voltage electronics side.
-VCU firmware, BMS cell monitoring, CAN network design, and sensor DAQ systems.
-
-## 📍 Chennai, India
-
----
-
-*Currently building fundamentals. Projects coming soon.*
+[LinkedIn](https://www.linkedin.com/in/hariprasaths03/) · Chennai, India
